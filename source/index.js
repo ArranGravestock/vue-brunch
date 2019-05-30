@@ -1,6 +1,6 @@
 'use strict';
 
-const compiler = require('vueify').compiler;
+const compiler = require('vueify-next').compiler;
 const fs = require('fs');
 
 class VueBrunch {

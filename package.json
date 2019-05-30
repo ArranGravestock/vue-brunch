@@ -20,7 +20,8 @@
     "insert-css": "^2.0.0",
     "vue-hot-reload-api": "^2.1.0",
     "vueify": "^9.4.1",
-    "vueify-insert-css": "^1.0.0"
+    "vueify-insert-css": "^1.0.0",
+    "vueify-next": "^9.5.3"
   },
   "devDependencies": {
     "ava": "^0.22.0",
